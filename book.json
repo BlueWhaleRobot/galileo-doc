@@ -14,10 +14,10 @@
   ],
   "pluginsConfig": {
     "github": {
-      "url": "https://github.com/BlueWhaleRobot/galileo-manual"
+      "url": "https://github.com/BlueWhaleRobot/galileo-doc"
     },
     "editlink": {
-      "base": "https://github.com/BlueWhaleRobot/galileo-manual/edit/master",
+      "base": "https://github.com/BlueWhaleRobot/galileo-doc/edit/master",
       "label": "编辑本页"
     },
     "sharing": {
@@ -26,7 +26,7 @@
       "facebook": false
     },
     "downloadpdf": {
-      "base": "https://doc.bwbot.org/pdf/galileo-manual",
+      "base": "https://doc.bwbot.org/pdf/galileo-doc",
       "label": "下载PDF",
       "multilingual": false
     },

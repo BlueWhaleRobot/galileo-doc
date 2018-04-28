@@ -1,11 +1,11 @@
 [Unit]
-Description=Galileo Manual gitbook service
+Description=Galileo Documents gitbook service
 
 [Service]
 Type=simple
 User=bwbot
-WorkingDirectory=/home/bwbot/data/src/gitbook/galileo-manual
-ExecStart=/usr/local/bin/gitbook --port 22232 --lrport 22330 serve
+WorkingDirectory=/home/bwbot/data/src/gitbook/galileo-doc
+ExecStart=/usr/local/bin/gitbook --port 22232 --lrport 22331 serve
 
 [Install]
 WantedBy=multi-user.target
