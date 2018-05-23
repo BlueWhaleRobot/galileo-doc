@@ -12,7 +12,8 @@
     "katex",
     "search",
     "include-codeblock",
-    "anchor-navigation-ex"
+    "anchor-navigation-ex",
+    "randoms-versions"
   ],
   "pluginsConfig": {
     "github": {
@@ -36,6 +37,18 @@
       "theme": "white",
       "family": "msyh",
       "size": 2
+    },
+    "versions": {
+      "options": [
+        {
+          "text": "v1.0.0",
+          "value": "https://galileo-doc.bwbot.org/v1.0.0/"
+        },
+        {
+          "text": "v1.1.0",
+          "value": "https://galileo-doc.bwbot.org/v1.1.0/"
+        }
+      ]
     }
   },
   "pdf": {
