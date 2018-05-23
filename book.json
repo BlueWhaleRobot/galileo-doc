@@ -10,7 +10,8 @@
     "downloadpdf",
     "yahei",
     "katex",
-    "-search"
+    "-search",
+    "feathers-versions"
   ],
   "pluginsConfig": {
     "github": {
@@ -46,5 +47,19 @@
       "top": 30,
       "bottom": 50
     }
+  },
+  "versions": {
+    "gitbookConfigURL": "https://raw.githubusercontent.com/BlueWhaleRobot/galileo-doc/master/book.json",
+    "options": [
+        {
+            "value": "https://doc.bwbot.org/books-online/galileo-servicebot-doc/",
+            "text": "Version 1.3.0"
+        },
+        {
+            "value": "https://doc.bwbot.org/books-online/hikey970-doc/",
+            "text": "Version 1.4.0",
+            "selected": true
+        }
+    ]
   }
 }
