@@ -39,16 +39,7 @@
       "size": 2
     },
     "versions": {
-      "options": [
-        {
-          "text": "v1.0.0",
-          "value": "https://galileo-doc.bwbot.org/v1.0.0/"
-        },
-        {
-          "text": "v1.1.0",
-          "value": "https://galileo-doc.bwbot.org/v1.1.0/"
-        }
-      ]
+      "host": "https://galileo-doc.bwbot.org"
     }
   },
   "pdf": {
