@@ -13,7 +13,8 @@
     "search",
     "include-codeblock",
     "anchor-navigation-ex",
-    "randoms-versions"
+    "randoms-versions",
+    "-live-reload"
   ],
   "pluginsConfig": {
     "github": {
