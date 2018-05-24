@@ -41,6 +41,9 @@
     },
     "versions": {
       "host": "https://galileo-doc.bwbot.org"
+    },
+    "anchor-navigation-ex": {
+      "showLevel": false
     }
   },
   "pdf": {
